@@ -1,13 +1,13 @@
 var PageComponent = require("ds.base/PageComponent");
 
-var AngularExampleServer = PageComponent.create({
+var VillesAngularExampleServer = PageComponent.create({
 	"/": function(attributes, vars) {
                 return new StatusResponse('good', {
                         my_data: "This is my data"
                 });
 	},
 	
-	type: "AngularExampleServer"
+	type: "VillesAngularExampleServer"
 });
 
-module.exports = AngularExampleServer;
+module.exports = VillesAngularExampleServer;
