@@ -1,0 +1,22 @@
+{
+   "autoload": [ ],
+   "bundle_name": "villes_app",
+   "dependencies": [
+      {
+         "version": "0.1.0",
+         "id": "ds.base"
+      }
+   ],
+   "icon": "fontawesome:paw",
+   "icon_color": "#4233ff",
+   "id": "dev.villes_app",
+   "page_banner": "",
+   "parametrics_form": "",
+   "platform_version": "",
+   "schema_version": "0",
+   "shell_layout": "",
+   "theme": "",
+   "title": "VillesApp",
+   "vendor": "dev",
+   "version": "0.1.0"
+}
